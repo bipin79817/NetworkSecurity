@@ -6,5 +6,7 @@ matplotlib
 pymongo
 certifi
 pymongo[srv]
+dill
+pyaml
 
 ##-e .

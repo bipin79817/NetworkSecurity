@@ -1,0 +1,19 @@
+2026-11-02 11:50:19,739 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2026-11-02 11:50:19,740 - INFO - NumExpr defaulting to 8 threads.
+2026-11-02 11:50:22,110 - INFO - Initiate the data ingestion
+2026-11-02 11:50:23,972 - INFO - Performed train test split on the dataframe
+2026-11-02 11:50:23,972 - INFO - Exited split_data_as_train_test method of Data_ingestion class
+2026-11-02 11:50:23,972 - INFO - Exporting train and test file path. 
+2026-11-02 11:50:24,017 - INFO - Exported train and test file path. 
+2026-11-02 11:50:24,017 - INFO - Data initiation completed
+2026-11-02 11:50:24,022 - INFO - Initiate the data validation
+2026-11-02 11:50:24,070 - INFO - Train and test data loaded successfully
+2026-11-02 11:50:24,071 - INFO - Required number of columns: 31
+2026-11-02 11:50:24,071 - INFO - Dataframe has columns: 31
+2026-11-02 11:50:24,071 - INFO - Required number of columns: 31
+2026-11-02 11:50:24,071 - INFO - Dataframe has columns: 31
+2026-11-02 11:50:24,071 - INFO - Column validation completed successfully
+2026-11-02 11:50:24,136 - INFO - Data drift validation status: True
+2026-11-02 11:50:24,185 - INFO - Validated train and test files saved
+2026-11-02 11:50:24,185 - INFO - Data validation artifact created successfully
+2026-11-02 11:50:24,185 - INFO - Data validation completed
